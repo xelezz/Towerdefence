@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee34b196ffe06f24daed1b27d868fc9e, type: 3}
+  m_Name: TileObstacle
+  m_EditorClassIdentifier: 
+  prefabName: Tile
+  numberOfPrefabsToCreate: 54
+  spawnPoints:
+  - {x: 2, y: 0, z: 0}
+  - {x: 6, y: 0, z: 0}
+  - {x: 10, y: 0, z: 0}
+  - {x: 18, y: 0, z: 0}
+  - {x: 2, y: 0, z: 1}
+  - {x: 8, y: 0, z: 1}
+  - {x: 10, y: 0, z: 1}
+  - {x: 12, y: 0, z: 1}
+  - {x: 16, y: 0, z: 1}
+  - {x: 18, y: 0, z: 1}
+  - {x: 2, y: 0, z: 2}
+  - {x: 8, y: 0, z: 2}
+  - {x: 10, y: 0, z: 2}
+  - {x: 12, y: 0, z: 2}
+  - {x: 16, y: 0, z: 2}
+  - {x: 18, y: 0, z: 2}
+  - {x: 2, y: 0, z: 3}
+  - {x: 10, y: 0, z: 3}
+  - {x: 12, y: 0, z: 3}
+  - {x: 16, y: 0, z: 3}
+  - {x: 18, y: 0, z: 3}
+  - {x: 2, y: 0, z: 4}
+  - {x: 10, y: 0, z: 4}
+  - {x: 12, y: 0, z: 4}
+  - {x: 16, y: 0, z: 4}
+  - {x: 2, y: 0, z: 5}
+  - {x: 10, y: 0, z: 5}
+  - {x: 12, y: 0, z: 5}
+  - {x: 16, y: 0, z: 5}
+  - {x: 18, y: 0, z: 5}
+  - {x: 2, y: 0, z: 6}
+  - {x: 8, y: 0, z: 6}
+  - {x: 10, y: 0, z: 6}
+  - {x: 12, y: 0, z: 6}
+  - {x: 16, y: 0, z: 6}
+  - {x: 18, y: 0, z: 6}
+  - {x: 2, y: 0, z: 7}
+  - {x: 8, y: 0, z: 7}
+  - {x: 10, y: 0, z: 7}
+  - {x: 12, y: 0, z: 7}
+  - {x: 16, y: 0, z: 7}
+  - {x: 18, y: 0, z: 7}
+  - {x: 2, y: 0, z: 8}
+  - {x: 4, y: 0, z: 8}
+  - {x: 8, y: 0, z: 8}
+  - {x: 10, y: 0, z: 8}
+  - {x: 12, y: 0, z: 8}
+  - {x: 16, y: 0, z: 8}
+  - {x: 18, y: 0, z: 8}
+  - {x: 4, y: 0, z: 9}
+  - {x: 8, y: 0, z: 9}
+  - {x: 12, y: 0, z: 9}
+  - {x: 16, y: 0, z: 9}
+  - {x: 18, y: 0, z: 4}
